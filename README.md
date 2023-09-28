@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Discord Bot using Python
-- 🌱 I’m currently learning Python Classes and Objects
-- 👯 I’m looking to collaborate on: Nothing. :)
-- 🤔 I’m looking for help with Classes and Objects
-- 💬 Ask me about Python Discord.py
-- 📫 How to reach me? Just mail me at bhavyadeep31yadav@gmail.com
-- 😄 Pronouns: Does this even matter?
-- ⚡ Fun fact: I hate Chemistry xD
-
+- I am Bhavyadeep, and am 19 years old with a keen interest in programming.
+- I would say that I am intermediate in Python and I have little knowledge about C++, HTML and JavaScript.
+- I would love to talk to you fellow programmers and would like to learn what you know because that's what helps people to grow.
+- Let's collaborate on projects and help each other learn something new everyday:D
